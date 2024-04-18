@@ -1,4 +1,4 @@
-# climnate_app
+# Weather App - Flutter
 
 A new Flutter application.
 
